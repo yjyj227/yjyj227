@@ -1,6 +1,6 @@
-### 백엔드, 더 나아가 풀스택 개발자가 되기를 희망하는 신입 개발자 ✨✨
+## 백엔드, 더 나아가 풀스택 개발자가 되기를 희망하는 신입 개발자 ✨✨
 
-#### 사용 가능한 스킬
+### 사용 가능한 스킬 :
 Java, Spring, MyBatis, JSP, Oracle, MySql
 (+ Javascript, jQuery, React, Vue.js, typescript...)
 
